@@ -13,9 +13,5 @@
 		- Connexité: le joueur essaie de construire une partie connexe la plus grande possible.
 - Ces trois heuristiques sont mises en jeu sous différentes coefficients (entièrs), ces coefficients étaient approximé en utilisant un script shell qui lance plusieurs parties.
 
-# Ce qu'on est fier d'avoir faire dans le projet:
-- Pouvoir utiliser l'iterative deepening, nous avons pu arriver à des profondeurs maximales sont dépasser la limite du temps.
-- Faire des heuristiques surtout celle de connexité.
-
 # Sources:
 - AI techniques for the game of Go [link](http://erikvanderwerf.tengen.nl/pubdown/thesis_erikvanderwerf.pdf)
